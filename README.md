@@ -239,4 +239,4 @@ This repository serves as the official landing page for FBReader. The software i
 **Get the most recent version of FBReader today!**
 
 ---
-**Last updated:** 2026-10-07 15:57:44 UTC
+**Last updated:** 2026-10-07 21:02:03 UTC
